@@ -2,4 +2,6 @@
 train：<br>
 python train.py --dataroot Your_DataSet_Path<br>
 test: <br>
-python test.py --dataroot Your_DataSet_Path
+python test.py --dataroot Your_DataSet_Path<br>
+Data set download link:<br>
+https://pan.baidu.com/s/1WKhAA48EtOTu26V099PuOg?pwd=gcss 
