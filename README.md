@@ -1,5 +1,5 @@
 # geomorphic_category_SAR_simulation
-train：
+train：<br>
 python train.py --dataroot Your_DataSet_Path<br>
-test:
+test: <br>
 python test.py --dataroot Your_DataSet_Path
